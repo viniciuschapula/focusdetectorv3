@@ -1,0 +1,7 @@
+
+train: .\Dataset\train\images
+val: .\Dataset\valid\images
+
+
+nc: 5
+names: ['Pneu exposto', 'Caixa d-agua', 'Garrafa', 'Piscina', 'Prato de vaso de planta']
