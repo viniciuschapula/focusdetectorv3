@@ -7,7 +7,7 @@ import cv2
 
 class FocusDetector:
     def __init__(self, path):
-        self.model = YOLO("best.pt")  # Assumindo que você tenha um modelo treinado chamado "best.pt"
+        self.model = YOLO("bestV2.pt")  # Assumindo que você tenha um modelo treinado chamado "best.pt"
         self.path = path
         self.path_save = os.path.join("results", os.path.basename(path))
 

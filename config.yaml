@@ -1,7 +1,7 @@
 
 train: .\Dataset\train\images
 val: .\Dataset\valid\images
-
+test: .\Dataset\test\images
 
 nc: 5
 names: ['Pneu exposto', 'Caixa d-agua', 'Garrafa', 'Piscina', 'Prato de vaso de planta']
