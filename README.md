@@ -1,9 +1,9 @@
-#FocusDetectorV3
+# FocusDetectorV3
 Colaborades: Vinicius de Oliveira Chapula, Lucas Cavalheiro, Angelika Andreatta
 
 Para rodar o projeto e validar o dataset ele estara disponivel no arquivo zip "DataSetsUtilizados.zip"
 
-#Explicação da estrutura de pastas e arquivos
+# Explicação da estrutura de pastas e arquivos
 
 DataSet: Pasta onde esta localizada a base de imagens utilizada para o treinamento
 OrganizarDataSet.py: Script utlizado para separar em pasta as classes para termos uma noção melhor do dataset
